@@ -1,0 +1,22 @@
+.Cajas{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+.Caja img{
+    width: 280px;
+    height: 300px;
+   
+}
+.Caja{
+    margin: 20px;
+}
+.Caja p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
